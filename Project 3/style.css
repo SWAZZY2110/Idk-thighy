@@ -1,0 +1,40 @@
+#Roses {
+    width: 450px;
+}
+
+body {
+    background-color: blue;
+    text-align: center;
+}
+
+#Tulips {
+    list-style: none;
+    width: 450px;
+}
+
+#Dasies {
+    width: 450px;
+    list-style: none;
+}
+
+#List {
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    background-color: aqua;
+
+}
+
+.GUI {
+    float: left;
+    margin: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: fantasy;
+    font-size: 18px;
+    cursor: pointer;
+
+}
